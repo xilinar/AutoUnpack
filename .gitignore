@@ -1,0 +1,28 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包生成的文件
+build/
+dist/
+*.spec
+
+# 虚拟环境（虽然你没用，但加上更专业）
+venv/
+env/
+.venv/
+
+# 测试压缩包（千万别把别人的付费模型传上去）
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
