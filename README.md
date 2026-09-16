@@ -45,7 +45,8 @@ pyinstaller -F -w --name "AutoUnpack" --collect-all tkinterdnd2 auto_unpack_gui.
 注意：打包时 auto_unpack.py 与 auto_unpack_gui.py 必须在同一目录。生成的 EXE 在 dist 文件夹内。
 
 ## 🖼️ 界面预览
-[]
+[<img width="1172" height="918" alt="image" src="https://github.com/user-attachments/assets/df06ad37-b62c-4626-b96b-3141bdc463df" />
+]
 
 ## 📄 开源协议
 本项目采用 [MIT License](LICENSE) 协议开源。
